@@ -1,11 +1,11 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "app": [{
+        "id": "siis",
+        "name": "SIIS Group",
+        "logo": "http://localhost:4200/assets/logo_default.svg",
+        "slogan": "Aprende y diviértete jugando"
+    }],
+    "users": [{
+        "name": "Dua Lipa"
+    }]
 }
