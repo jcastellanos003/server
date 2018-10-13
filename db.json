@@ -1,7 +1,7 @@
 {
     "apps": [
         {
-            "id": 1,
+            "id": "siis",
             "name": "SIIS Group",
             "logo": "http://localhost:4200/assets/logo_default.svg",
             "slogan": "Aprende y diviértete jugando"
