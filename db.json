@@ -1,11 +1,10 @@
 {
-    "app": [{
-        "id": "siis",
-        "name": "SIIS Group",
-        "logo": "http://localhost:4200/assets/logo_default.svg",
-        "slogan": "Aprende y diviértete jugando"
-    }],
-    "users": [{
-        "name": "Dua Lipa"
-    }]
+    "apps": [
+        {
+            "id": 1,
+            "name": "SIIS Group",
+            "logo": "http://localhost:4200/assets/logo_default.svg",
+            "slogan": "Aprende y diviértete jugando"
+        }
+    ]
 }
